@@ -52,7 +52,7 @@ int main()
 
 
 
-hackerrank prgm 6
+
 
 #include <stdio.h>
 
@@ -104,7 +104,7 @@ m++;
 
 }
 
-hackerrank prgm 8
+
 
 #include <stdio.h>
 
@@ -135,7 +135,7 @@ i++;
 printf("%d", sum);
 }
 
-hackrank prgm 9
+
 
 #include <stdio.h>
 
@@ -152,7 +152,7 @@ int main()
     return 0;
 }
 
-hackerrank prgm 10
+
 
 #include <stdio.h>
 
@@ -173,3 +173,45 @@ printf("abcdefghijklmnopqrstuvwxyz");
 return 0;
 
 }
+
+
+
+hackerrank prgm4
+
+#include <stdio.h>
+
+int main()
+{
+    int end,i;
+    scanf("%d", &end);
+    for(i=1;i<=end;i++)
+    {
+        if(i%2!=0)
+{
+            printf("%d",i);
+           
+}
+    }
+}
+
+hackerrank prgm 5(chatgpt)
+
+#include <stdio.h>
+
+int main() {
+    int multiplicand, n;
+    scanf("%d %d", &multiplicand, &n);
+
+
+    for (int i = 1; i <= multiplicand; i++) {
+        printf("%d * %d = %d\n", i, n, i * n);
+    }
+
+    return 0;
+}
+
+
+
+
+
+
