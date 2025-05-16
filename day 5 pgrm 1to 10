@@ -69,7 +69,7 @@ printf("%d",c);
 
 }
 
-hackerrank prgm 7
+
 #include<stdio.h>
 
 int main()
@@ -176,7 +176,7 @@ return 0;
 
 
 
-hackerrank prgm4
+
 
 #include <stdio.h>
 
@@ -194,7 +194,7 @@ int main()
     }
 }
 
-hackerrank prgm 5(chatgpt)
+
 
 #include <stdio.h>
 
